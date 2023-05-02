@@ -46,4 +46,4 @@ It follows that the information for, e.g., creating the virtual environment for 
 ### Notes on MOXA
 
 The models for MOXA were not released on GitHub, but on a [custom site](https://shitty-bots-inc.github.io/MOXA/index.html).
-We will soon provide information on the reproducibility for these models as well.
+You can check the reproducibility notes on this repo, in the folder `MOXA_reproducibility`.
